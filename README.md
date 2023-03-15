@@ -1,6 +1,6 @@
 # Travox_UI
 
-An expression of lesson learn on Cubit State Management...
+An expression of lesson learnt on Cubit State Management...
 
 ## Features
 - Cubit State Management
