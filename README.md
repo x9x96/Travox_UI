@@ -11,12 +11,12 @@ An expression of lesson learn on Cubit State Management...
 **Client**: Flutter, BlocProvider
 
 ## Screenshots
-![Screenshot1](screenshots/s1.png)
+![Screenshot1](img/s1.png)
 
-![Screenshot2](screenshots/s2.png)
+![Screenshot2](img/s2.png)
 
-![Screenshot3](screenshots/s3.png)
+![Screenshot3](img/s3.png)
 
-![Screenshot4](screenshots/s4.png)
+![Screenshot4](img/s4.png)
 
-![Screenshot5](screenshots/s5.png)
+![Screenshot5](img/s5.png)
